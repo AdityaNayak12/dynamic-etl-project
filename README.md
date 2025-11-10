@@ -1,1 +1,1 @@
-# dynamic-elt-project
+# dynamic-etl-project
